@@ -60,16 +60,15 @@
 
 ### ⚙️ Projects
 
-<table>
-  <tr>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamGTU-teams&repo=foodsharing&theme=dracula">
-    </td>
-    <td>
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=SamGTU-teams&repo=folklore-service&theme=dracula">
-    </td>
-  </tr>
-</table>
+[<img alt="foodsharing project" src="https://github-readme-stats.vercel.app/api/pin/?username=SamGTU-teams&repo=foodsharing&theme=dracula">][foodsharing]
+[<img alt="folklore project" src="https://github-readme-stats.vercel.app/api/pin/?username=SamGTU-teams&repo=folklore-service&theme=dracula">][folklore]
+
+<!-- Socials -->
 
 [telegram]: https://t.me/rassafel
 [vk]: https://vk.com/rassafel
+
+<!-- Projects -->
+
+[foodsharing]: https://github.com/SamGTU-teams/foodsharing
+[folklore]: https://github.com/SamGTU-teams/folklore-service
